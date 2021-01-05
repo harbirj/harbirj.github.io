@@ -10,11 +10,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #a10f0d;
+  color: #111010;
 }
 
 a {
-  color: #149ddd;
+  color: #dd7f14;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: #dd7f14;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #e49030;
   transition: background 0.2s ease-in-out;
 }
 
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #073519;
   overflow-y: auto;
 }
 
