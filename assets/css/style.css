@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #e49030;
   text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #090631;
+  background: #0f1825;
   overflow-y: auto;
 }
 
@@ -312,7 +312,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #dd7f14;
+  color: #122f57;
 }
 
 .about .content ul {
